@@ -2,3 +2,5 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=25&pause=1000&color=4369F7&width=435&lines=%C2%A1Bienvenido+a+mi+perfil+de+GitHub!;Data+Lover+%F0%9F%92%99;Estudiante+de+DAM;Datos+como+herramienta+de+cambio" alt="Typing SVG"></a>
 </p>
+<h3>Sobre mí</h3>
+-🎓Actualmente estudiando Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma
